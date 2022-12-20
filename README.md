@@ -19,7 +19,7 @@ The script would be able to find CERTIFIED data in its corresponding directory. 
 python data.py
 ```
 # Contributing
-`mehdi_j94@outlook.com`
+`s_behmanesh@sbu.ac.ir`
 # License
 `# to do`
 # System Overview
